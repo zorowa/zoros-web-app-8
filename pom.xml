@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>JOMACS Snapshot Nexus Repository </name>
-	      <url>http:// 172.31.29.221:8081/repository/gtb-snapshot/</url>
+	      <url>http://172.31.29.107:8081/repository/uba-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
